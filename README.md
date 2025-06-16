@@ -12,8 +12,10 @@ A comprehensive data visualization project analyzing global population trends fr
 
 ## 📂 Files Included
 
-1.Task-01.ipynb – Main file 
+1.Task-01.ipynb – Main file  
+
 2.Task-01.pdf – Preview of the file
+
 3.Task-01.csv – Dataset used
 
 ## 🔧 Tools used
