@@ -21,6 +21,7 @@ A comprehensive data visualization project analyzing global population trends fr
 ## 🔧 Tools used
 
 1.Python (Pandas for data manipulation)
+
 2.Matplotlib for visualization
 
 ## 📸 Preview
